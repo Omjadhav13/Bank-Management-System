@@ -27,3 +27,12 @@ A simple console-based banking application that allows you to perform basic bank
 1. Clone the repository:
    ```bash
    git clone https://github.com/Omjadhav13/Bank-Management-System.git
+
+2. Navigate to the project directory:
+   cd Bank-Management-System
+
+3. Compile the code:
+   g++ bank.cpp -o bank
+
+4. Run the program:
+   ./bank
